@@ -58,7 +58,9 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** حمار حقير كلب نذل ههه **[ " ${x} " ]`)
+        message.channel.send(`** ** حياكم سيرفر pixel 
+- العاب + مسابقات + جوائز يوميه 
+https://discord.gg/NSXJzjp** **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +74,9 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** حمار حقير كلب نذل ههه **[ " ${x} " ]`)
+        message.channel.send(`** ** حياكم سيرفر pixel 
+- العاب + مسابقات + جوائز يوميه 
+https://discord.gg/NSXJzjp** **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
