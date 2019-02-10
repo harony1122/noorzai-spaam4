@@ -58,7 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** هارون يسلم عليكم **[ " ${x} " ]`)
+        message.channel.send(`** حمار حقير كلب نذل ههه **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`** هارون يسلم عليكم **[ " ${x} " ]`)
+        message.channel.send(`** حمار حقير كلب نذل ههه **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
